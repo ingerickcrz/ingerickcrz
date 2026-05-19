@@ -1,26 +1,26 @@
-# Hola, soy Erick Cruz 👋
+# Hi, I'm Erick Cruz 👋
 
-## Sobre mi
+## About me
 
-Soy Ingeniero Civil con especialización en Valuación Inmobiliaria (UNAM)
-y formación en Análisis de Datos por Triple Ten.
+I'm a Civil Engineer with a specialization in Real Estate Valuation (UNAM)
+and training in Data Analysis from Triple Ten.
 
-Me apasiona transformar datos del mercado inmobiliario en información
-clara y accionable, para ayudar a mis clientes a tomar mejores decisiones
-de inversión con confianza y respaldo técnico.
+I'm passionate about transforming real estate market data into clear
+and actionable information, helping my clients make better investment
+decisions with confidence and technical support.
 
-Practico constantemente para encontrar soluciones cada vez más prácticas
-y eficientes como analista, y trabajo en proyectos que con el tiempo
-buscan construir una visión integral del mercado inmobiliario en México,
-para apoyar la toma de decisiones con datos reales y confiables.
+I constantly practice to find increasingly practical and efficient
+solutions as an analyst, and I work on projects that aim to build
+a comprehensive view of the real estate market in Mexico,
+supporting decision-making with real and reliable data.
 
-📍 Ciudad de México, México
+📍 Mexico City, Mexico
 
-🔭 Actualmente: desarrollando proyectos de análisis inmobiliario
-🌱 Siempre aprendiendo algo nuevo, de preferencia entre libros 📚,
-y una buena taza de café ☕
+🔭 Currently: developing real estate analysis projects
+🌱 Always learning something new, preferably among books 📚
+   and a good cup of coffee ☕
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-0057A8?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0057A8?style=flat&logo=jupyter&logoColor=white)
@@ -38,27 +38,27 @@ y una buena taza de café ☕
 ![Análisis Estadístico](https://img.shields.io/badge/Análisis_Estadístico-0057A8?style=flat&logoColor=white)
 ![Valuación Inmobiliaria](https://img.shields.io/badge/Valuación_Inmobiliaria-0057A8?style=flat&logoColor=white)
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects
 
 ### 🏠 [FOVISSSTE Mortgage Analysis](https://github.com/ingerickcrz/FOVISSSTE-mortgage-analysis)
 
-Análisis del comportamiento del crédito hipotecario FOVISSSTE 
-por entidad federativa a nivel nacional durante el período 2020–2025.
+Analysis of FOVISSSTE mortgage credit behavior by state
+at the national level from 2020 to 2025.
 
-**Hallazgo principal:** El Estado de México se posiciona como el principal 
-foco de crédito hipotecario FOVISSSTE, impulsado por el crédito tradicional, 
-que a su vez, impulsa a la zona centro del país como área estratégica para el desarrollo 
-de vivienda destinada a trabajadores del sector público.
+**Key finding:** The State of Mexico stands as the main hub of FOVISSSTE
+mortgage credit, driven by traditional lending, which in turn positions
+the central region of the country as a strategic area for housing
+development aimed at public sector workers.
 
-**Herramientas:** Jupyter Notebook | Python | Pandas | Tableau
+**Tools:** Jupyter Notebook | Python | Pandas | Tableau
 
 ## 📊 Mis estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ingerickcrz&show_icons=true&theme=tokyonight&locale=es)
+![GitHub Stasts](https://github-readme-stats.vercel.app/api?username=ingerickcrz&show_icons=true&theme=tokyonight&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ingerickcrz&layout=compact&theme=tokyonight&locale=es)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingerickcrz&layout=compact&theme=tokyonight&locale=es)
 
-## 📫 Contáctame
+## 📫 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0057A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-alan-cruz-lópez)
 [![Gmail](https://img.shields.io/badge/Gmail-0057A8?style=flat&logo=gmail&logoColor=white)](mailto:eng.erickcrz@gmail.com)
