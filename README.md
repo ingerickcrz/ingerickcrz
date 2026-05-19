@@ -17,8 +17,8 @@ para apoyar la toma de decisiones con datos reales y confiables.
 📍 Ciudad de México, México
 
 🔭 Actualmente: desarrollando proyectos de análisis inmobiliario
-🌱 Siempre aprendiendo algo nuevo, entre libros 📚,
-   entrenamientos de calistenia 🤸 y una buena taza de café ☕
+🌱 Siempre aprendiendo algo nuevo, de preferencia entre libros 📚,
+y una buena taza de café ☕
 
 ## 🛠️ Tecnologías y herramientas
 
