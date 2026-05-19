@@ -35,8 +35,8 @@ supporting decision-making with real and reliable data.
 ![NumPy](https://img.shields.io/badge/NumPy-0057A8?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0057A8?style=flat&logo=scipy&logoColor=white)
 
-![Análisis Estadístico](https://img.shields.io/badge/Análisis_Estadístico-0057A8?style=flat&logoColor=white)
-![Valuación Inmobiliaria](https://img.shields.io/badge/Valuación_Inmobiliaria-0057A8?style=flat&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Análisis_Estadístico-0057A8?style=flat&logoColor=white)
+![Real Estate Appraisal](https://img.shields.io/badge/Valuación_Inmobiliaria-0057A8?style=flat&logoColor=white)
 
 ## 📂 Featured Projects
 
@@ -52,7 +52,7 @@ development aimed at public sector workers.
 
 **Tools:** Jupyter Notebook | Python | Pandas | Tableau
 
-## 📊 Mis estadísticas
+## 📊 My stats
 
 ![GitHub Stasts](https://github-readme-stats.vercel.app/api?username=ingerickcrz&show_icons=true&theme=tokyonight&locale=es)
 
